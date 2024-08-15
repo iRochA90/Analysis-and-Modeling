@@ -1,6 +1,6 @@
 # Analysis-and-Modeling
 
-Housing Price Prediction
+HOUSING PRICE PREDICTION
 
 Project Overview
 
@@ -8,14 +8,14 @@ This project aims to predict housing prices in California using various machine 
 
 Requirements
 
-Python 3.7+
+- Python 3.7+
     Libraries:
-        pandas
-        numpy
-        scikit-learn
-        matplotlib
-        seaborn
-        tensorflow (if you experiment with neural networks)
+        - pandas
+        - numpy
+        - scikit-learn
+        - matplotlib
+        - seaborn
+        - tensorflow (if you experiment with neural networks)
 
 Data
 
