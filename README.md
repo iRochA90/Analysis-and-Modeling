@@ -9,7 +9,7 @@ This project aims to predict housing prices in California using various machine 
 Requirements
 
 - Python 3.7+
-    Libraries:
+    - Libraries:
         - pandas
         - numpy
         - scikit-learn
