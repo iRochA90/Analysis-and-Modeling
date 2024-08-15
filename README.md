@@ -39,7 +39,7 @@ The most effective model for predicting housing prices was Random Forest. Key fi
 
 - Feature engineering significantly improved model performance, particularly the BedroomsPerRoom ratio.
 - Traditional models, like Random Forest, outperformed more complex neural networks, likely due to the dataset size and complexity.
-    The best model achieved an R² of of above 80% on the test set.
+    The best model achieved an R² of above 80% on the test set.
 
 Acknowledgements
 
